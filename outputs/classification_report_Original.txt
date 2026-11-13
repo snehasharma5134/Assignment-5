@@ -1,0 +1,21 @@
+Model: Original
+Test Accuracy: 71.85%
+Macro F1: 0.7154
+Weighted F1: 0.7154
+
+              precision    recall  f1-score   support
+
+    airplane     0.7921    0.7200    0.7543      1000
+  automobile     0.8416    0.8870    0.8637      1000
+        bird     0.6304    0.5270    0.5741      1000
+         cat     0.5335    0.5250    0.5292      1000
+        deer     0.7358    0.5960    0.6586      1000
+         dog     0.6012    0.6000    0.6006      1000
+        frog     0.6692    0.8760    0.7588      1000
+       horse     0.7433    0.7760    0.7593      1000
+        ship     0.8458    0.8450    0.8454      1000
+       truck     0.7881    0.8330    0.8099      1000
+
+    accuracy                         0.7185     10000
+   macro avg     0.7181    0.7185    0.7154     10000
+weighted avg     0.7181    0.7185    0.7154     10000

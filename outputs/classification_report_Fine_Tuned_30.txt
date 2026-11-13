@@ -1,0 +1,21 @@
+CIFAR-10 CLASSIFICATION REPORT (6-LAYER CNN)
+
+Test Accuracy: 88.34%
+Macro F1-Score: 0.8819
+
+              precision    recall  f1-score   support
+
+    airplane     0.8949    0.8860    0.8905      1000
+  automobile     0.9501    0.9520    0.9510      1000
+        bird     0.8793    0.7940    0.8345      1000
+         cat     0.8385    0.6750    0.7479      1000
+        deer     0.8602    0.9110    0.8849      1000
+         dog     0.7809    0.8730    0.8244      1000
+        frog     0.8984    0.9280    0.9129      1000
+       horse     0.9054    0.9280    0.9165      1000
+        ship     0.9115    0.9470    0.9289      1000
+       truck     0.9162    0.9400    0.9279      1000
+
+    accuracy                         0.8834     10000
+   macro avg     0.8835    0.8834    0.8819     10000
+weighted avg     0.8835    0.8834    0.8819     10000

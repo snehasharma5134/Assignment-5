@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dataset (download separately when running the project)
+dataset/
+
+# Secrets and Environment Variables
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# IDE and System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.log
+.pytest_cache/
+.ipynb_checkpoints/

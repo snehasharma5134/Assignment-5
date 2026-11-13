@@ -1,0 +1,14 @@
+CIFAR-10 MODEL COMPARISON SUMMARY
+==================================================
+
+1. 6-Layer Custom CNN (Trained from Scratch - 30 Epochs)
+   - Validation Accuracy : 89.12%
+   - Official Test Acc   : 88.34%
+   - Macro F1-Score      : 0.8819
+   - Weighted F1-Score   : 0.8819
+
+2. ResNet-18 (Transfer Learning - 12 Epochs)
+   - Validation Accuracy : 93.28%
+   - Official Test Acc   : 92.92%
+   - Macro F1-Score      : 0.9291
+   - Weighted F1-Score   : 0.9291
